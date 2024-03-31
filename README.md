@@ -42,4 +42,4 @@ I welcome contributions to this project! If you have suggestions, improvements, 
 
 ## How to Use
 
-Please refer to the `docs` directory for detailed instructions on dataset preparation, model training, and web interface deployment.
+Please refer to the attached file for detailed instructions on dataset preparation, model training, and web interface deployment.
